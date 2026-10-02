@@ -4,7 +4,7 @@ using namespace std;
 //variables globales.
 float salario = 0, descuento = 0, beneficio = 0;
 int horas = 0;
-
+//cambios acá
 //le pedimos al usuario que ingrese sus horas trabajadas, claro dentro de un rango de 0 a 40 horas.
 void ingresarHoras() {
     do{
